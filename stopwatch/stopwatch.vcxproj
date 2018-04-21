@@ -148,7 +148,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="stopwatch.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stopwatch.h" />
