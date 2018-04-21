@@ -9,6 +9,7 @@ ms単位での計測ができ、デフォルトではstd::coutに出力する
 # 使い方
 
 '
+
     // 計測開始
 
     Stopwatch stopwatch {};
@@ -20,6 +21,7 @@ ms単位での計測ができ、デフォルトではstd::coutに出力する
     // 計測終了
 
     stopwatch.Stop ();
+
 '
 
 
