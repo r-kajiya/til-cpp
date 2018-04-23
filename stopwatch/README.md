@@ -24,9 +24,3 @@ ms単位での計測ができ、デフォルトではstd::coutに出力する
 
 '
 
-
-# 参考URL
-
-<https://www.aps-web.jp/academy/cm/08/>
-
-<http://www7b.biglobe.ne.jp/~robe/cpphtml/html03/cpp03014.html>
